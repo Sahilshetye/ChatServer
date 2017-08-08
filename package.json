@@ -1,0 +1,20 @@
+{
+  "name": "tasklist",
+  "version": "1.0.0",
+  "description": "tasklist project from the  pluralsight ",
+  "main": "client.js",
+  "dependencies": {
+    "eslint": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "nodejs",
+    "pluralsight"
+  ],
+  "author": "Sahil Shetye",
+  "license": "Apache-2.0"
+}
